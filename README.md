@@ -18,7 +18,7 @@ To play **Rush Escape: Obstacle Pursuit**, follow these simple steps:
 
 1. **Clone the Repository:**
    ```
-   git clone [repository_url]
+   git clone [https://github.com/alikera/Escape-Rush.git]
    ```
 
 2. **Open in Unity:**
